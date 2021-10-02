@@ -6,7 +6,7 @@ server.use('/doc', swaggerUi.serve, swaggerUi.setup(swaggerFile))server.use('/',
 
 const post = process.env.PORT || 3000
 
-server.listen(post, () => { console.log(`Server rodando na porta => ${post} 🚀`)})
+server.listen(post, () => { console.log(`Server rodando na porta => ${post} `)})
 
 
 
