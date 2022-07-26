@@ -1,14 +1,26 @@
-const express = require('express')const router = require('./routes')const swaggerUi = require('swagger-ui-express')const swaggerFile = require('./swagger_output.json')const server = express()server.use(express.json())
+## Bem-vindo(a) ao perfil do Dev em Dobro 😁
 
-server.use(router)
+ <div>
+   <a href="https://github.com/mateus4562">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus4562&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus4562&layout=compact&langs_count=6&theme=tokyonight"/>
 
-server.use('/doc', swaggerUi.serve, swaggerUi.setup(swaggerFile))server.use('/', swaggerUi.serve, swaggerUi.setup(swaggerFile))
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ 
+ <br>
+ 
+  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+ 
+<div> 
 
-const post = process.env.PORT || 3000
+  <a href="https://instagram.com/_boss_kiler_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mmateuscraft33@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+  ![Snake animation](https://github.com/mateus4562/mateus4562/blob/output/github-contribution-grid-snake.svg)
 
-server.listen(post, () => { console.log(`Server rodando na porta => ${post} `)})
-
-
-
-
-
+</div>
