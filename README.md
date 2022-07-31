@@ -18,6 +18,9 @@
 <div> 
 
   <a href="https://instagram.com/_boss_kiler_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mmateuscraft33@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  ![projeto 1-completo 10x](https://user-images.githubusercontent.com/91747924/181104343-961951ec-fe81-4c9d-8339-fb081a053cba.gif)
+  <a href = "mailto:mmateuscraft33@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
+![projeto 1-completao](https://user-images.githubusercontent.com/91747924/182005168-4d540502-2619-431c-ac1b-61440a149544.gif)
+
+ 
+
 </div>
